@@ -12,7 +12,7 @@ ATENÇÃO:
 Solicitações da atividade:
 1. Controle de marcas:
   
-  Campos: código e descrição;
+    Campos: código e descrição;
 
 2. Controle de modelos:
   
