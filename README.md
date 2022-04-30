@@ -11,17 +11,17 @@ ATENÇÃO:
 
 Solicitações da atividade:
 1. Controle de marcas:
-a. Campos: código e descrição;
+  Campos: código e descrição;
 
 2. Controle de modelos:
-a. Campos: código, código da marca e descrição;
+  Campos: código, código da marca e descrição;
 
 3. Controle de carros:
-a. Campos: código, código do modelo, ano, cor, descrição e observações;
+  Campos: código, código do modelo, ano, cor, descrição e observações;
 
 4. Controle de usuários (clientes):
-a. Campos: código, nome, e-mail e senha;
+  Campos: código, nome, e-mail e senha;
 
 5. Controle de locação:
-a. Campos: código, código do carro, código do cliente, data retirada, data devolução,
+  Campos: código, código do carro, código do cliente, data retirada, data devolução,
 valor e observações;
